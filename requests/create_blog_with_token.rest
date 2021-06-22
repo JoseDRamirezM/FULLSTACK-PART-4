@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3QiLCJpZCI6IjYwZDBmMzY5MTU1OTkxM2I5MDU5YmI4MSIsImlhdCI6MTYyNDM4MjAxMiwiZXhwIjoxNjI0Mzg1NjEyfQ.aY2MQVvYMXp_vyt0Y5n8JhNneaVoRbFE6yY1cOBWT6E
+
+{
+    "title": "xd",
+    "author": "author test name jose",
+    "url": "xdd",
+    "likes": 6
+}
